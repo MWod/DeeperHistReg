@@ -1,9 +1,15 @@
 # DeeperHistReg - Robust Whole Slide Images Registration Framework
 
 <!-- ![Example](./figures/Overview.png) -->
-<img src="./figures/Overview.png" alt="Example" width="1024"/>
+<p align="center">
+  <img src="./figures/Overview.png" alt="Example" width="1024"/>
+</p>
+<!-- <img src="./figures/Overview.png" alt="Example" width="1024"/> -->
 <!-- ![Results](./figures/SoftwareXVis.png) -->
-<img src="./figures/SoftwareXVis.png" alt="Example" width="512"/>
+<p align="center">
+  <img src="./figures/SoftwareXVis.png" alt="Example" width="1024"/>
+</p>
+<!-- <img src="./figures/SoftwareXVis.png" alt="Example" width="512"/> -->
 
 The repository containts the source code the the DeeperHistReg library together with usage examples.
 
