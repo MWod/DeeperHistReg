@@ -43,6 +43,8 @@ Or clone the repository and install directly.
 
 You can also run the registration using Docker (see below).
 
+In case you decide to clone the repository and install directly - please download the "dhr_models" and copy it to the deeperhistreg folder (due to large file sizes): [Models](https://drive.google.com/drive/folders/1yQyz-F0mTjFvSeO0JddLlYA_97ru6-Lv?usp=sharing). This step is not required if installed via pip.
+
 # Examples
 
 ## Affine Registration
