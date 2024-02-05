@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "deeperhistreg"
+version = "1.0.1"
+authors = [
+  { name="Marek Wodzinski", email="wodzinski@agh.edu.pl" },
+]
+description = "DeeperHistReg Framework - To Register WSI Images"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Image Processing",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[project.urls]
+"Homepage" = "https://github.com/MWod/DeeperHistReg"
+"Bug Tracker" = "https://github.com/MWod/DeeperHistReg/issues"
