@@ -168,6 +168,10 @@ Please find the example here: [Deformable Registration](./deeperhistreg_examples
 
 Please find the example here: [Apply Deformation](./deeperhistreg_examples/apply_deformation.py).
 
+## Jupyter Notebook
+
+Please find the example here: [Jupyter Notebook](./deeperhistreg_examples/example_notebook.ipynb).
+
 ## Docker Usage
 
 You can download the Docker container here: [Docker](TODO).
