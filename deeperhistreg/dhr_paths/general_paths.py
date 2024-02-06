@@ -5,8 +5,8 @@ import pathlib
 code_path = pathlib.Path(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 
-data_path = pathlib.Path(r'/data_slow_1/WSI_Registration')
-data_to_save = pathlib.Path(r'/data_slow_1/WSI_Registration/Results')
+data_path = None # TODO
+data_to_save = None # TODO
 ANHIR_dataset_path = data_path / "ANHIR"
 ACROBAT_dataset_path = data_path / "ACROBAT"
 HyReCo_dataset_path = data_path / "HyReCo"
